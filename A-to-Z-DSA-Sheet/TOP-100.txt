@@ -1,0 +1,102 @@
+# TOP 100 A-TO-Z DSA SHEET QUESTIONS
+
+1. Reverse an array
+2. Find the maximum and minimum element in an array
+3. Find the “Kth” max and min element of an array
+4. Sort an array of 0s, 1s, and 2s
+5. Move all the negative elements to one side of the array
+6. Find the Union and Intersection of the two sorted arrays
+7. Cyclically rotate an array by one
+8. Find the largest sum contiguous subarray (Kadane’s Algorithm)
+9. Minimize the maximum difference between heights
+10. Minimum number of jumps to reach end of an array
+11. Find duplicate in an array of N+1 integers
+12. Merge two sorted arrays without using extra space
+13. Kadane’s Algorithm (Maximum Subarray Sum)
+14. Best Time to Buy and Sell Stock
+15. Find common elements in 3 sorted arrays
+16. Rearrange array in alternating positive & negative items
+17. Find if there is any subarray with sum equal to 0
+18. Find factorial of a large number
+19. Find maximum product subarray
+20. Longest consecutive subsequence
+21. Count pairs with given sum
+22. Find the repeating and missing number
+23. Count inversions in an array
+24. Best time to buy and sell stock – II
+25. Find all pairs on integer array whose sum is equal to given number
+26. Trapping Rain Water
+27. Chocolate Distribution Problem
+28. Smallest subarray with sum greater than a given value
+29. Three Sum Problem
+30. Minimum swaps required to bring elements ≤ K together
+31. Median of two sorted arrays
+32. Search in rotated sorted array
+33. Find peak element
+34. Majority Element (>n/2 times)
+35. Maximum subarray of size k
+36. Rotate matrix by 90 degrees
+37. Spiral traversal of matrix
+38. Search a 2D Matrix
+39. Median in a row-wise sorted matrix
+40. Find row with maximum number of 1s
+41. Largest rectangle in a histogram
+42. Maximal Rectangle in binary matrix
+43. Word Search (Matrix DFS problem)
+44. Subarray Sum Equals K
+45. Longest Substring Without Repeating Characters
+46. Longest Palindromic Substring
+47. Longest Common Prefix
+48. Valid Parentheses
+49. Next Greater Element
+50. Implement LRU Cache
+51. Implement LFU Cache
+52. Min Stack Implementation
+53. Sliding Window Maximum
+54. Minimum Window Substring
+55. Distinct Numbers in Window
+56. Largest Number formed from an Array
+57. Minimum Platforms Problem
+58. Job Sequencing Problem
+59. N Meetings in One Room
+60. Activity Selection Problem
+61. Fractional Knapsack Problem
+62. Minimum Spanning Tree (Kruskal’s / Prim’s)
+63. Dijkstra’s Algorithm (Shortest Path)
+64. Bellman-Ford Algorithm
+65. Floyd Warshall Algorithm
+66. Topological Sort (DFS / BFS)
+67. Detect cycle in a directed graph
+68. Detect cycle in an undirected graph
+69. Minimum time to complete tasks with prerequisites
+70. Alien Dictionary (Graph + Topological Sort)
+71. Number of Islands (DFS / BFS)
+72. Rotten Oranges Problem
+73. Word Ladder Problem
+74. Rat in a Maze Problem
+75. N-Queens Problem
+76. Sudoku Solver
+77. Word Break Problem
+78. Longest Increasing Subsequence
+79. Minimum number of deletions and insertions to transform a string
+80. Edit Distance Problem
+81. Longest Common Subsequence
+82. Longest Palindromic Subsequence
+83. Matrix Chain Multiplication
+84. Egg Dropping Puzzle
+85. Coin Change Problem
+86. Subset Sum Problem
+87. Partition Equal Subset Sum
+88. Maximum Profit in Job Scheduling
+89. Kadane’s Algorithm in 2D (Maximum Sum Rectangle)
+90. Maximum Product Cutting (DP)
+91. Unique Paths in a Grid
+92. Minimum Path Sum in a Grid
+93. Climbing Stairs Problem
+94. House Robber Problem
+95. House Robber II (Circular)
+96. Burst Balloons (DP)
+97. Wildcard Matching
+98. Regular Expression Matching
+99. Implement Trie (Prefix Tree)
+100. Word Search II using Trie
